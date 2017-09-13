@@ -1,0 +1,14 @@
+{
+  "name": "websocket-basic-testing",
+  "version": "1.0.0",
+  "description": "Node testing to work of de Websockte comunication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zubcarz",
+  "license": "ISC",
+  "dependencies": {
+    "websocket": "^1.0.24"
+  }
+}
